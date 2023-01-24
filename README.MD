@@ -1,4 +1,4 @@
-# SAE MISE EN RESEAU
+# SAE SOCKETS
 #### Quentin Gilleron
 #### Tom Buathier
 #
