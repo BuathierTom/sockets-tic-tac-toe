@@ -22,8 +22,7 @@ int main()
     // joueur par défaut
     joueur = 1;
 
-    do
-    {   
+    do{   
         // appel de la fonction dessine grille pour voir l'avancement de la partie au fils du temps
         dessineGrille();
 

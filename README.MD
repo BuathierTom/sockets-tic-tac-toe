@@ -1,4 +1,4 @@
-# SAE C3
+# SAE MISE EN RESEAU
 #### Quentin Gilleron
 #### Tom Buathier
 #
@@ -48,4 +48,4 @@ gcc T3N_client_V0.c -o client
 * Envoie de message du serveur vers le client en fonction de la fin
 * Si message de fin, l'afficher et fermer le programme
 * Si aucun message de fin alors continue et boucle 
-"# SAE_MISE_EN_RESEAU" 
+
